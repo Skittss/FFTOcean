@@ -1,6 +1,6 @@
-import * as THREE from "https://threejs.org/build/three.module.js";
-import { OrbitControls } from "https://threejs.org/examples/jsm/controls/OrbitControls.js";
-import { GPUComputationRenderer } from "https://threejs.org/examples/jsm/misc/GPUComputationRenderer.js";
+import * as THREE from "https://threejsfundamentals.org/threejs/resources/threejs/r122/build/three.module.js";
+import { OrbitControls } from "https://threejsfundamentals.org/threejs/resources/threejs/r122/examples/jsm/controls/OrbitControls.js";
+import { GPUComputationRenderer } from "https://threejsfundamentals.org/threejs/resources/threejs/r122/examples/jsm/misc/GPUComputationRenderer.js";
 import { 
     h0kshader, 
     hktshader_y, hktshader_x, hktshader_z, 
